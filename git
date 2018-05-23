@@ -1,0 +1,11 @@
+关于git的笔记：
+1. git init: 创建新git仓库
+
+
+从远程库克隆：
+1. git clone (https/SSH)
+
+本地仓与远程库连接：
+1. git remote add origin (https/SSH)
+
+工作流
