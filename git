@@ -1,6 +1,9 @@
 关于git的笔记：
 1. git init: 创建新git仓库
 
+添加与提交：
+1. git add <filename>
+2. git commit -m "代码提交信息"
 
 从远程库克隆：
 1. git clone (https/SSH)
@@ -8,4 +11,5 @@
 本地仓与远程库连接：
 1. git remote add origin (https/SSH)
 
-工作流
+改动推送：
+1. git push origin master
