@@ -1,0 +1,5 @@
+强制设置浏览器版本
+<meta http-equiv="X-UA-Compatible" content="IE=7" /> 
+
+div居中：
+水平居中：margin: 0 auto;
