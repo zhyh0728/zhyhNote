@@ -15,3 +15,12 @@
 
 改动推送：
 1. git push origin master
+
+更新本地仓到最新：
+git pull
+
+合并其他分支到当前：
+git merge <branch>
+
+查看冲突：
+git diff <source_brach> <target_branch>
