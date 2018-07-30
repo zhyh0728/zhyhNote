@@ -8,4 +8,4 @@ update command options using c off
 alter table Table_Name activate not logged INITIALLY
 delete from Table_Name
 commit
-update command options using c on
+update command options using c on 
