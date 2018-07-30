@@ -1,6 +1,8 @@
 无日志清空表：
 ALTER TABLE products ACTIVATE NOT LOGGED INITIALLY WITH EMPTY TABLE
 
+load from empfile of del replace into tabname
+
 无日志删除：
 update command options using c off
 alter table Table_Name activate not logged INITIALLY
