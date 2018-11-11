@@ -1,0 +1,47 @@
+主要的几个方面：
+Java基础：
+1、基础知识点
+    equals与==的区别
+    Java的四种引用方式（强弱虚软）
+2、集合（list、set、map）
+    ArrayList、LinkedList、Vector的区别
+    HashMap、HashTable的区别
+    HashMap和ConcurrentHashMap的区别，HashMap的底层源码
+    TreeMap、HashMap、LinkedHashMap的区别
+3、IO
+4、并发和多线程
+    线程同步方法
+    锁类型和锁等级
+    ThreadLocal的设计理念与作用
+    Runable与Callable
+    ThreadPool用法与优势
+    wait()和sleep()方法的区别
+5、网络编程
+6、反射
+7、lambda表达式
+
+jvm：
+1、类加载
+2、基本原理
+3、调优方法
+4、GC算法
+
+数据库：
+1、JDBC
+2、Mybatis
+
+Java web：
+1、HTTP协议
+2、Servlet
+3、cookie和session
+4、HTTPClient
+
+分布式事务
+
+Spring
+1、Spring加载流程
+2、IOC和AOP
+
+设计模式：
+
+
